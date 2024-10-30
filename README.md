@@ -1,2 +1,2 @@
-# LinkOcc-
+# LinkOcc
 LinkOcc demo video
